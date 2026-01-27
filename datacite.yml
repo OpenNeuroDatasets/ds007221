@@ -10,9 +10,22 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
+      - name: Xinwei Sun
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0005-0344-5472
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 2
     creators:
       - name: Yupei Cao
         nameType: Personal
+      - name: Xinwei Sun
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
