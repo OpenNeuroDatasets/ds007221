@@ -1,7 +1,7 @@
 {
     "Name": "Cross-Sence Multi-Task MI EEG Dataset",
     "BIDSVersion": "1.0.0",
-    "DatasetType": "EEG",
+    "DatasetType": "raw",
     "Authors": [
         "Sun Xinwei",
         "Wang Kun",
