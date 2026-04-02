@@ -1,5 +1,5 @@
 {
-    "Name": "Cross-Scene Multi-Task MI EEG Dataset",
+    "Name": "Cross-environment Multi-paradigm Motor Imagery EEG Dataset",
     "BIDSVersion": "1.0.0",
     "DatasetType": "raw",
     "Authors": [
