@@ -1,4 +1,4 @@
-# Cross-environment Multi-paradigm Motor Imagery EEG Dataset
+# Cross-Environment Multi-Paradigm Motor Imagery EEG Dataset
 # Description
 This dataset contains EEG recordings collected during motor imagery (MI) tasks under different recording environments. The primary dataset includes recordings from a controlled laboratory setting and a simulated hospital environment, designed to investigate the impact of environmental variability on EEG-based brain–computer interface (BCI) performance.In addition, a small supplementary dataset recorded in a space station environment is provided, extending the dataset to a non-terrestrial recording condition.
 
