@@ -3,6 +3,13 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
+      - name: Kun Wang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ContactPerson
+        order: 1
       - name: Xinwei Sun
         givenName: ''
         familyName: ''
@@ -11,16 +18,18 @@ data:
           - nameIdentifier: https://orcid.org/0009-0005-0344-5472
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 1
+        contributorType: DataCollector
+        order: 2
       - name: Yupei Cao
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 2
+        order: 3
     creators:
+      - name: Kun Wang
+        nameType: Personal
       - name: Xinwei Sun
         nameType: Personal
         nameIdentifiers: *ref_0
