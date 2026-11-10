@@ -34,6 +34,27 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
+      - name: Jiayang Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Minpeng Xu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Dong Ming
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
     creators:
       - name: Xinwei Sun
         nameType: Personal
@@ -43,6 +64,12 @@ data:
       - name: Lincong Pan
         nameType: Personal
       - name: Yupei Cao
+        nameType: Personal
+      - name: Jiayang Zhang
+        nameType: Personal
+      - name: Minpeng Xu
+        nameType: Personal
+      - name: Dong Ming
         nameType: Personal
     descriptions:
       - description: N/A
