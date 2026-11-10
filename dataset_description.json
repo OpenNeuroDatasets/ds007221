@@ -17,7 +17,7 @@
         }
     ],
     "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds007221.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds007221.v1.0.2",
     "Acknowledgements": "The source code used for all technical validations conducted in this experiment has been uploaded and is publicly available on GitHub (https://github.com/boom-sun/Cross-Environment-Multi-Paradigm-Motor-Imagery-EEG-Dataset).",
     "Funding": [
         " Space Medical Experiment Project of CMSP (HYZHXMR01008)",
