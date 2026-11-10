@@ -1,0 +1,76 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Xinwei Sun
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0009-0005-0344-5472
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: DataCollector
+        order: 1
+      - name: Kun Wang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: ContactPerson
+        order: 2
+      - name: Lincong Pan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Yupei Cao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Jiayang Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Minpeng Xu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Dong Ming
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+    creators:
+      - name: Xinwei Sun
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Kun Wang
+        nameType: Personal
+      - name: Lincong Pan
+        nameType: Personal
+      - name: Yupei Cao
+        nameType: Personal
+      - name: Jiayang Zhang
+        nameType: Personal
+      - name: Minpeng Xu
+        nameType: Personal
+      - name: Dong Ming
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
