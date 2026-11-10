@@ -7,7 +7,7 @@ This dataset contains electroencephalography (EEG) recordings from **84 healthy 
 The dataset supports research on MI decoding, cross-subject transfer, cross-environment generalization, and the effects of visual stimulation on MI-based brain-computer interfaces (BCIs). Raw recordings, preprocessed EEG, and supporting questionnaire materials are provided.
 
 - **Data:** [OpenNeuro ds007221](https://openneuro.org/datasets/ds007221)
-- **Dataset DOI (version 1.0.1):** [10.18112/openneuro.ds007221.v1.0.1](https://doi.org/10.18112/openneuro.ds007221.v1.0.1)
+- **Dataset DOI (version 1.0.3):** [10.18112/openneuro.ds007221.v1.0.3](https://doi.org/10.18112/openneuro.ds007221.v1.0.3)
 - **Analysis code:** [GitHub](https://github.com/boom-sun/Cross-Environment-Multi-Paradigm-Motor-Imagery-EEG-Dataset)
 
 ## Participants and experimental design
@@ -55,15 +55,15 @@ Raw recordings can be accessed using compatible EEG tools such as MNE-Python and
 
 **If you use this dataset in your research, please cite the dataset DOI below.** Your citation acknowledges the contributors and helps others find and reuse the data. Cite the specific version you use; the example below refers to version 1.0.1.
 
-Cross-Environment Multi-Paradigm Motor Imagery EEG Dataset (Version 1.0.1) [Data set]. OpenNeuro. https://doi.org/10.18112/openneuro.ds007221.v1.0.1
+Cross-Environment Multi-Paradigm Motor Imagery EEG Dataset (Version 1.0.3) [Data set]. OpenNeuro. https://doi.org/10.18112/openneuro.ds007221.v1.0.3
 
 ```bibtex
-@misc{cross_environment_mi_eeg_v1_0_1,
+@misc{cross_environment_mi_eeg_v1_0_3,
   title        = {Cross-Environment Multi-Paradigm Motor Imagery {EEG} Dataset},
   howpublished = {OpenNeuro},
-  doi          = {10.18112/openneuro.ds007221.v1.0.1},
-  url          = {https://doi.org/10.18112/openneuro.ds007221.v1.0.1},
-  note         = {Data set, version 1.0.1}
+  doi          = {10.18112/openneuro.ds007221.v1.0.3},
+  url          = {https://doi.org/10.18112/openneuro.ds007221.v1.0.3},
+  note         = {Data set, version 1.0.3}
 }
 ```
 
